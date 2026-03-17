@@ -1,11 +1,28 @@
-## Hello
+## Jonathan Jiang
+CS @ UT Austin
 
-I'm a student at the University of Texas at Austin, and I like to code random stuff in my free time. 
+Interested in systems, graphics, programming languages, and other low-level software.
 
-## What I code
+---
 
-I code basically anything. Currently, I am making an app for taking notes, writing a program for transcribing music, working on an automated proof checker, and some other stuff.
+### Selected Projects
 
-## My stuff
+- **Cerium (Toy Virtual Machine)**  
+  Custom instruction set, assembler, bytecode, and virtual machine implemented in Rust.
 
-Check out my [personal website](https://nengyi-jonathan-jiang.github.io/) for my stuff
+- **Shader Playground**  
+  Browser-based GLSL playground with custom editor features and real-time shader interaction.
+
+---
+
+### Current Work
+
+- Web-based ARM64 IDE and debugger  
+- Systems coursework (memory management, low-level programming)  
+- Graphics and simulation experiments
+
+---
+
+### Links
+
+- Website: https://njonathanj.com
