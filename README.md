@@ -23,7 +23,7 @@ Interested in systems, graphics, programming languages, and other low-level soft
   uniform data to the shader.
 
 - [**Jasm and Jepp**](https://github.com/Nengyi-Jonathan-Jiang/jasm-jepp)   
-  A custom assembly language (an older iteration of Cerium) and an interpreted language.
+  Custom assembly language (an older iteration of Cerium) and interpreted language.
   Includes a custom FSM-based-lexer and LR(1) parser generator
 
   This project initially started as an attempt to build a general lexer and parser library and
