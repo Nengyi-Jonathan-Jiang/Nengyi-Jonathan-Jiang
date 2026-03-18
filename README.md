@@ -17,7 +17,7 @@ Interested in systems, graphics, programming languages, and other low-level soft
 - [**Shader Playground**](https://github.com/Nengyi-Jonathan-Jiang/shader-playground-2)  
   Browser-based GLSL playground with custom editor features and real-time shader interaction.
 
-  I built this tool inspired by [https://www.shadertoy.com/](Shadertoy) to explore what can be
+  I built this tool inspired by [Shadertoy](https://www.shadertoy.com/) to explore what can be
   done solely in fragment shaders. However, I wanted more control over the uniform data sent to
   the shader, so I added the ability to write stateful code in JavaScript to send custom
   uniform data to the shader.
