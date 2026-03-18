@@ -36,9 +36,9 @@ Interested in systems, graphics, programming languages, and other low-level soft
 
 ### Current Work
 
-- Web-based ARM64 IDE and debugger  
-- Systems coursework (memory management, low-level programming)  
+- Web-based ARM64 IDE and debugger   
 - Image processing on the GPU
+- Systems coursework (memory management, low-level programming)
 
 ---
 
