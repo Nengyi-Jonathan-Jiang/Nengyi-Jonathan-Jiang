@@ -8,37 +8,36 @@ Interested in systems, graphics, programming languages, and other low-level soft
 ### Selected Projects
 
 - [**Cerium (Toy Virtual Machine)**](https://github.com/Nengyi-Jonathan-Jiang/cerium)  
-  Custom instruction set, assembler, bytecode, and virtual machine implemented in Rust.
+  A custom instruction set, assembler, bytecode, and virtual machine implemented in Rust.
 
   I built this to explore the challenges associated with designing an instruction set,
-  including simplicity, encoding efficiency, ease of decoding, and selecting what operations
-  to include or not.
+  balancing trade-offs in encoding efficiency, instruction decoding, and instruction set
+  minimalism.
   
-- [**Shader Playground**](https://github.com/Nengyi-Jonathan-Jiang/shader-playground-2)  
-  Browser-based OpenGL shader playground with powerful scripting capabilities and real-time shader interaction.
-
-  I built this tool inspired by [Shadertoy](https://www.shadertoy.com/) to explore what can be
-  done solely in fragment shaders. However, I wanted more control over the uniform data sent to
-  the shader, so I added the ability to write stateful code in JavaScript to send custom
-  uniform data to the shader.
-
-- [**Jasm and Jepp**](https://github.com/Nengyi-Jonathan-Jiang/jasm-jepp)   
-  Custom assembly language (an older iteration of Cerium) and interpreted language.
-  Includes a custom FSM-based-lexer and LR(1) parser generator
-
-  This project initially started as an attempt to build a general lexer and parser library and
-  to understand the algorithms behind them. To see how the library might work in practice, I
-  used it to build an custom assembly language Jasm (pronounced "Yasm") and a custom interpreted
-  language Jepp (pronounced "Yep"). The interpreted language includes features such as variables
-  and scoping, control flow, method calls, and dynamic method dispatch.
+- [**Parser and Lexer Generators**](https://github.com/Nengyi-Jonathan-Jiang/Parser-Lexer-Generators)   
+  A general lexer and parser library for linear time parsing.
   
+  I built this to explore compiler frontend algorithms. The project also includes two custom languages, Jasm (an
+  assembly language) and Jepp (an interpreted language), to explore AST processing, semantics, and language design.
+
+- [**Voxel Rendering Engine**](https://github.com/Nengyi-Jonathan-Jiang/Voxel-Rendering-Engine)
+  An experimental Minecraft-style rendering engine.
+
+  I built this to explore low-level optimizations used in game engine code. Features a custom OpenGL rendering layer,
+  GPU-accelerated procedural terrain, and dynamically lighting and ambient occlusion.
+
+- [**AArch64 Simulator**](https://github.com/Nengyi-Jonathan-Jiang/AArch64-Simulator)
+  A web-based IDE and debugging environment for AArch64 assembly featuring microarchitectural visualizations.
+
+  I built this to explore hardware concepts like caching, pipelining, and branch prediction while exploring
+  Rust/WASM/TypeScript interop.
+
 ---
 
 ### Current Work
 
-- Web-based ARM64 IDE and debugger   
-- Image processing on the GPU
-- Systems coursework (memory management, low-level programming)
+- AArch64 simulator
+- STEM-oriented note taking app
 
 ---
 
