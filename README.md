@@ -7,7 +7,7 @@ Interested in systems, graphics, programming languages, and developer tooling.
 
 ### Selected Projects
 
-- [**AArch64 Simulator**](https://github.com/Nengyi-Jonathan-Jiang/AArch64-Simulator)
+- [**AArch64 Simulator**](https://github.com/Nengyi-Jonathan-Jiang/AArch64-Simulator)  
   A web-based AArch64 IDE and simulator with microarchitectural visualizations.
 
   I built this to explore hardware concepts like caching, pipelining, and branch prediction while exploring
@@ -26,7 +26,7 @@ Interested in systems, graphics, programming languages, and developer tooling.
   I built this to explore compiler frontend algorithms. The project also includes two custom languages, Jasm (an
   assembly language) and Jepp (an interpreted language), to explore AST processing, semantics, and language design.
 
-- [**Voxel Rendering Engine**](https://github.com/Nengyi-Jonathan-Jiang/Voxel-Rendering-Engine)
+- [**Voxel Rendering Engine**](https://github.com/Nengyi-Jonathan-Jiang/Voxel-Rendering-Engine)  
   An experimental Minecraft-style rendering engine with a focus on performance.
 
   I built this to explore low-level optimizations used in game engine code. Features a custom OpenGL rendering layer,
